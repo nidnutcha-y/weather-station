@@ -2,19 +2,19 @@
 Smart IoT weather monitor using ESP32 and DHT22 sensor.
 Displays real-time temperature and humidity on a web dashboard.
 
-# Hardware
+## Hardware
 - ESP32
 - DHT22 Temperature & Humidity Sensor
 
-# Software
+## Software
 - C/C++ (Arduino Framework)
 - MQTT Protocol
 - Node-RED Dashboard
 
-# Features
+## Features
 - Real-time temperature and humidity monitoring
 - Data logging every 5 seconds
 - Web dashboard accessible via WiFi
 
-# Status
+## Status
 🚧 In Progress
