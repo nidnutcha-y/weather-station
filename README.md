@@ -4,7 +4,7 @@ Displays real-time temperature and humidity on a web dashboard.
 
 ## Hardware
 - ESP32
-- DHT22 Temperature & Humidity Sensor
+- AHT20+BMP280
 
 ## Software
 - C/C++ (Arduino Framework)
