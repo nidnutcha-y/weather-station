@@ -1,20 +1,20 @@
 # Weather Station 🌡️
-Smart IoT weather monitor using ESP32 and DHT22 sensor.
-Displays real-time temperature and humidity on a web dashboard.
+
+Smart IoT weather monitor using ESP32, AHT20, and BMP280 sensor.
+Displays real-time temperature, humidity, pressure, and altitude via WiFi.
 
 ## Hardware
 - ESP32
-- AHT20+BMP280
+- AHT20 (Temperature & Humidity Sensor)
+- BMP280 (Pressure & Altitude Sensor)
 
 ## Software
 - C/C++ (Arduino Framework)
-- MQTT Protocol
-- Node-RED Dashboard
 
 ## Features
-- Real-time temperature and humidity monitoring
+- Real-time temperature, humidity, pressure, and altitude monitoring
 - Data logging every 5 seconds
-- Web dashboard accessible via WiFi
+- WiFi connectivity with IP display
 
 ## Status
-🚧 In Progress
+✅ Working
